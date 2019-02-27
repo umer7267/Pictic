@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pictic</string>
+
+    <!-- Settings Options -->
+    <string name="Edit_Profile_Info">Edit Profile</string>
+    <string name="Edit_Name">Edit Name</string>
+    <string name="Change_Email">Change Email</string>
+    <string name="Change_Password">Change Password</string>
+    <string name="Help">Help</string>
+    <string name="Report_a_Problem">Report a Problem</string>
+    <string name="Ads">Ads</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="Terms_of_Use">Terms of Use</string>
+    <string name="Sign_Out">Sign Out</string>
+    <string name="Login_with_another_Account">Login with another Account</string>
+</resources>
